@@ -5,11 +5,9 @@ Audiovisual Technician | Computer Science Major and Data Science Minor at Loyola
 Currently studying computer science and data science at university while simultaneously building rich experience in the audiovisual world.
 
 ### Education
-**BA in Computer Science**
-
-**Minor in Data Science**
-
-Loyola University Maryland
+- **BA in Computer Science**
+- **Minor in Data Science**
+- Loyola University Maryland
 
 ***
 ### Projects
