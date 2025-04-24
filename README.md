@@ -22,6 +22,7 @@ Tech Stack: Frontend
 - Formik: Manages the form state efficiently, ensuring smooth user input and submission processes.
 - Yup: Handles form validation, ensuring that user data is accurate before being processed. Together, Formik and Yup make it easy to create, validate, and submit forms.
 - React Beautiful DnD: A drag-and-drop library used for organizing team roles, project ideas, and tasks, allowing users to visually manage their projects.
+
 Tech Stack: Backend
 - Firebase Authentication: Secure login and registration system to manage users such as project managers, analysts, and administrators.
 - Firebase Firestore: A real-time NoSQL database for storing project ideas, user roles, tasks, and analytics.
