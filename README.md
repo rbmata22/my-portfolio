@@ -6,7 +6,9 @@ Currently studying computer science and data science at university while simulta
 
 ### Education
 **BA in Computer Science**
+
 **Minor in Data Science**
+
 Loyola University Maryland
 
 ***
