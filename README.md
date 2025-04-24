@@ -9,6 +9,7 @@ Currently studying computer science and data science at university while simulta
 **Minor in Data Science**
 Loyola University Maryland
 
+***
 ### Projects
 #### HackUMBC Hackathon 2024
 - ![Image](link-to-image)
@@ -29,6 +30,7 @@ Tech Stack: Backend
 - Firebase Cloud Functions: Executes backend logic to handle complex business processes, such as automating role assignments and tracking progress.
 - Gemini APIs: Leverages embedded and pro models to handle queries and generate responses, enhancing user interaction and project ideation.
 
+***
 #### Senior Capstone Project 2025
 - ![Image](link-to-image)
 - AssistedLivingDirect aims to create a user-friendly website that will provide an intuitive way for users to search for and access information on assisted living facilities, including their Medicaid Waiver and Senior Assisted Living Subsidy (SALS) certifications. This website will enhance accessibility and streamline the process of finding care facilities.
