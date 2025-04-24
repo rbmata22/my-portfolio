@@ -1,8 +1,15 @@
 # Ryland Mata
 
 ### About Me
-Audiovisual Technician | Computer Science Major and Data Science Minor at Loyola University Maryland
-Currently studying computer science and data science at university while simultaneously building rich experience in the audiovisual world.
+Hello! I am an experienced software developer and web development professional with over 4 years of proven expertise in web developing and data management. 
+
+With skills in web development, application development, cleaning databases, and backend server management I am able to develop websites, and achieve full ownership of websites. I am adept at using JavaScript, databases such as MongoDB and SQL, and C. 
+
+My diverse skill set, commitment to professionalism, and passion for computer science highlights me as a valuable asset.  In my spare time, I like to go fishing and workout. 
+
+You can find me on 
+- LinkedIn: https://www.linkedin.com/in/ryland-mata-072816252/
+- Handshake: https://loyola.joinhandshake.com/profiles/merzta
 
 ### Education
 - **BA in Computer Science**
