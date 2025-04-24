@@ -39,7 +39,7 @@ Result:
 - If I could improve it, I would definitely implement a target grade calculator to see what a final exam would need to be graded in order to reach a desired overall grade.
 
 Summary
-- This grade calculator can take in assignments, quizzes, projects, anything that has a grade and calculate the overall grade of them with the weight of each input as well. It is very helpful in seeing how points and weights attribute to final grades and seeing the letter grade in a class.
+- This grade calculator can take in assignments, quizzes, projects, anything that has a grade and calculate the overall grade of them with the weight of each input as well. It is very helpful in seeing how points and weights attribute to final grades and seeing the letter grade in a class. Overall, this project was very fun and applicable to me since I am a student.
 
 ***
 #### Income Tracker
@@ -84,4 +84,4 @@ Result
 - I would definitely go back and improve upon the profits by adding whether or not certain consoles have a high likelihood of increasing in value over time. 
 
 Summary:
-- This project is both a tracker for videogame console prices and a calculator for determining profits and average prices for resellers. When taking on a side hustle like reselling, it is important to keep track of prices and make accurate choices on whether or not it would be profitable to invest in certain videogame consoles.
+- This project is both a tracker for videogame console prices and a calculator for determining profits and average prices for resellers. When taking on a side hustle like reselling, it is important to keep track of prices and make accurate choices on whether or not it would be profitable to invest in certain videogame consoles. I enjoyed working on this project as I like to play videogames from time to time, so looking at the prices of certain consoles and doing research on them was cool.
